@@ -1,5 +1,5 @@
 
-# Hey, I'm Jeffrey! 👋
+# Hey, I'm Jeff
 
 ### 👨‍💻 Software Systems Student @ Simon Fraser University
 
