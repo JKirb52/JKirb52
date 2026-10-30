@@ -9,6 +9,8 @@ I've worked on projects ranging from a 2D Java game to a custom Unix-style shell
 
 I'm currently building my programming skills, exploring different areas of software development, and working toward a career in software engineering.
 
+Since my projects are school related i cant post them publicly but can provide them upon request!
+
 ## 🚀 Featured Projects
 
 ### 🏠 [Rob the Block](https://github.com/JKirb52/RobTheBlock)
@@ -71,13 +73,7 @@ A Unix-style command-line shell developed for CMPT 201.
 - Software design and development practices
 - Improving my understanding of backend development
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=JKirb52&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=JKirb52&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=JKirb52&theme=dark&hide_border=true&layout=compact)
 
 ## 🌐 Connect With Me
 
